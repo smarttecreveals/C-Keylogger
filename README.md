@@ -1,3 +1,3 @@
 # C++ Keylogger
 
-//use only for Educational Purposes
+// use only for Educational Purposes
